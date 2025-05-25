@@ -1,0 +1,41 @@
+# AgreeX AI Agents Dependencies
+# OKX DEX Integration Requirements
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Cryptography for OKX API signatures
+cryptography>=41.0.0
+
+# Web3 for blockchain interactions
+web3>=6.11.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# JSON and data validation
+jsonschema>=4.19.0
+pydantic>=2.4.0
+
+# Async support
+aiohttp>=3.9.0
+asyncio>=3.4.3
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.11.0
+
+# Logging and monitoring
+python-json-logger>=2.0.7
+
+# Rate limiting for API calls
+ratelimit>=2.2.1
+
+# Time and scheduling
+schedule>=1.2.0
+
+# Environment and configuration
+python-decouple>=3.8 
