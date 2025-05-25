@@ -24,10 +24,10 @@ AgreeX with OKX DEX enables any freelancer or contractor to:
 ## Solution Architecture
 
 ### Cloud Architecture
-![NTT Data Cloud Architecture](NTT%20Data%20Chijaukay%20-%20Arquitectura%20actualizada.jpg)
+![Arqutiectura](https://github.com/user-attachments/assets/853e6fa0-3b16-40b7-94cb-5e21253740b6)
 
 ### Multi-Agent System
-![AI Orchestrator Architecture](orquestador_ia.jpg)
+![orquestador_ia](https://github.com/user-attachments/assets/590a0294-5510-4756-863e-fa3621ab93cf)
 
 ### Architecture Components
 Our system is based on a multi-agent architecture that includes:
