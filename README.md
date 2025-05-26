@@ -23,7 +23,7 @@ AgreeX with OKX DEX enables any freelancer or contractor to:
   
 ## 🎬 AgreeX Demo
 
-![AgreeX Demo](Demo.gif)
+![AgreeX Demo](Demo.mp4)
 
 ## Solution Architecture
 
