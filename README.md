@@ -20,6 +20,10 @@ AgreeX with OKX DEX enables any freelancer or contractor to:
 - Execute automatic swaps to pay in preferred tokens
 - Operate on 6 major chains: Ethereum, Polygon, Arbitrum, Optimism, Avalanche, and BSC
 - Reduce transaction costs by choosing the most efficient chain
+  
+## 🎬 AgreeX Demo
+
+![AgreeX Demo](Demo.gif)
 
 ## Solution Architecture
 
